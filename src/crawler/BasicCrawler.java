@@ -22,75 +22,47 @@ public class BasicCrawler extends WebCrawler {
     public void visit(Page page) {
 
         String htmlContent = ((HtmlParseData) page.getParseData()).getHtml();
-        if (htmlContent.contains("textarea")) {
-            System.err.println(page.getWebURL().toString());
+        if (htmlContent.contains("RESPONSES TO")) {
+            return;
+        }
 
-            int index = 0;
-            boolean inTag = false;
-            StringBuilder strepBody = new StringBuilder(htmlContent);
-            System.out.println(strepBody.toString());
+        String wantedUrl = "http://automaticacalculatoare.wordpress.com/2013/05/26/end-of-an-era-dawn-of-another";
 
-            while (index < strepBody.length()) {
-                if (inTag) {
-                    if (strepBody.charAt(index) == '>') {
-                        inTag = false;
-                    }
+
+        System.err.println(page.getWebURL().toString());
+        if (!page.getWebURL().toString()
+                .contains(wantedUrl)) {
+            return;
+        }
+        int index = 0;
+        boolean inTag = false;
+        StringBuilder strepBody = new StringBuilder(htmlContent);
+        System.out.println(strepBody.toString());
+
+        while (index < strepBody.length()) {
+            if (inTag) {
+                if (strepBody.charAt(index) == '>') {
+                    inTag = false;
+                }
+
+                if (inTag &&
+                        (strepBody.charAt(index) == ' ')
+                        ) {
+                    while (strepBody.charAt(index) != '>')
+                        strepBody.deleteCharAt(index);
+                    inTag = false;
+                }
+                index++;
+            } else {
+                if (strepBody.charAt(index) == '<' && strepBody.charAt(index + 1) != '!') {
+                    inTag = true;
                     index++;
                 } else {
-                    if (strepBody.charAt(index) == '<') {
-                        inTag = true;
-                        index++;
-                    } else {
-                        strepBody.deleteCharAt(index);
-                    }
+                    strepBody.deleteCharAt(index);
                 }
             }
-
-
-            System.out.println(strepBody.toString());
-
-            System.out.println();
-            System.out.println();
-            System.out.println();
-            System.out.println();
-            System.out.println();
-            System.out.println();
         }
-//        int docid = page.getWebURL().getDocid();
-//        String url = page.getWebURL().getURL();
-//        String domain = page.getWebURL().getDomain();
-//        String path = page.getWebURL().getPath();
-//        String subDomain = page.getWebURL().getSubDomain();
-//        String parentUrl = page.getWebURL().getParentUrl();
-//        String anchor = page.getWebURL().getAnchor();
-//
-//        System.out.println("Docid: " + docid);
-//        System.out.println("URL: " + url);
-//        System.out.println("Domain: '" + domain + "'");
-//        System.out.println("Sub-domain: '" + subDomain + "'");
-//        System.out.println("Path: '" + path + "'");
-//        System.out.println("Parent page: " + parentUrl);
-//        System.out.println("Anchor text: " + anchor);
-//
-//        if (page.getParseData() instanceof HtmlParseData) {
-//            HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
-//            String text = htmlParseData.getText();
-//            String html = htmlParseData.getHtml();
-//            List<WebURL> links = htmlParseData.getOutgoingUrls();
-//
-//            System.out.println("Text length: " + text.length());
-//            System.out.println("Html length: " + html.length());
-//            System.out.println("Number of outgoing links: " + links.size());
-//        }
-//
-//        Header[] responseHeaders = page.getFetchResponseHeaders();
-//        if (responseHeaders != null) {
-//            System.out.println("Response headers:");
-//            for (Header header : responseHeaders) {
-//                System.out.println("\t" + header.getName() + ": " + header.getValue());
-//            }
-//        }
-//
-//        System.out.println("=============");
+
+        System.out.println(strepBody.toString());
     }
 }
