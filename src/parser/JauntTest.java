@@ -61,8 +61,8 @@ public class JauntTest {
 		urls.add("http://mjperry.blogspot.ro/");
 		urls.add("http://notthetreasuryview.blogspot.de/");
 		urls.add("http://noahpinionblog.blogspot.de/");
-		urls.add("http://rwer.wordpress.com/");
-		urls.add("http://unlearningeconomics.wordpress.com/");
+//		urls.add("http://rwer.wordpress.com/");
+//		urls.add("http://unlearningeconomics.wordpress.com/");
 		for(String url : urls)
 			getContent(url);
 		

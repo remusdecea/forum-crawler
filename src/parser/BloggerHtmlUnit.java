@@ -16,9 +16,9 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
 public class BloggerHtmlUnit {
 
 	public Document getComments(String url) throws FailingHttpStatusCodeException, IOException{
-		final WebClient webClient = new WebClient(BrowserVersion.CHROME);;
+		final WebClient webClient = new WebClient(BrowserVersion.CHROME);
 		final HtmlPage page = webClient.getPage(url);
-		final DomElement commentsList = page.getElementById("comments-block");
+//		final DomElement commentsList = page.getElementById("comments-block");
 		//System.out.println(commentsList.asText());
 		
 		List<DomElement> authorElements= (List<DomElement>) page.getByXPath("//dl[@id='comments-block']//dt//a");
