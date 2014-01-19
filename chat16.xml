@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>No debate please, we're Europeans</Topics>
+    <Participants>
+        <Person nickname="Ken Houghton"/>
+        <Person nickname="Matt Jason"/>
+        <Person nickname="Merijn Knibbe"/>
+        <Person nickname="Dan Kervick"/>
+        <Person nickname="Simon"/>
+        <Person nickname="Dan McShane"/>
+        <Person nickname="Jamfoot"/>
+        <Person nickname="Hajj umrah"/>
+        <Person nickname="Triumph"/>
+        <Person nickname="Srikanto Bormon"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Ken Houghton">
+            <Utterance genid="1" time="15 February 2013 14:08">Rehn: &amp;quot;If one takes into account the deterioration of investor confidence expressed by rising government bond yields, the results of the multiplier analysis change...as shown in Box I.5 on p[age 41 of the Commission&amp;#39;s autumn [sic] 2012 forecast.&amp;quot;I.5 from Autumn 2012: &amp;quot;Without questioning that fiscal multipliers are probably larger than usual at the current juncture...&amp;quot;</Utterance>
+        </Turn>
+        <Turn nickname="Matt Jason">
+            <Utterance genid="2" time="15 February 2013 20:14">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="Merijn Knibbe">
+            <Utterance genid="3" time="16 February 2013 02:55">Mr. Rehn is mistaken about empirical examples too, for instance about the &amp;#39;crowd funding&amp;#39; way the Belgians accidentally used to lower interest rates on government debt - just pass &amp;#39;the markets&amp;#39; by: http://rwer.wordpress.com/2013/02/15/how-the-belgians-really-broke-the-repression-of-the-financial-markets/</Utterance>
+        </Turn>
+        <Turn nickname="Dan Kervick">
+            <Utterance genid="4" time="16 February 2013 07:18">This is the kind of reaction from officialdom that is is entirely predictable once policy-makers go down the road of relying on psychological channels to produce the effects they are trying to achieve.  The efficacy of those expectation management channels, even in theory, depends on large numbers of market participants having certain kinds of background beliefs about the connections between things.  The policy maker doesn&amp;#39;t care whether those beliefs are well-grounded or not, only that people have them, because the beliefs are essential for their placebo cures to work.  They are then going to get irritated when scientists come along and try to determine whether the beliefs are true, and publicize the results.</Utterance>
+        </Turn>
+        <Turn nickname="Simon">
+            <Utterance genid="5" time="16 February 2013 08:00">This comment has been removed by the author.</Utterance>
+        </Turn>
+        <Turn nickname="Simon">
+            <Utterance genid="6" time="16 February 2013 08:03">If Olli Rehn organises a garden party barbecue during the summer, and in the days before the weatherman tells him that heavy rain and gales are extremely likely, should the weatherman take some of the blame if all the guests get soaked, many catch pneumonia and the barbecue floats out of the garden on the flood? </Utterance>
+        </Turn>
+        <Turn nickname="Dan McShane">
+            <Utterance genid="7" time="16 February 2013 09:59">Jonathan: I read Mr. Rehn&amp;#39;s letter and conclude you are an optimist. All I could gather from Mr. Rehn&amp;#39;s defensive letter was his profound belief in &amp;quot;confidence&amp;quot; as a driver of recovery. This approach is being twisted into a theory that we won&amp;#39;t have a recovery because people and studies are questioning his policies; instead everyone needs to get behind these policies in order to maintain confidence. Hence, the failure of the recovery will be the fault of studies and bloggers that disagree with austerity because they undermined confidence. Economics has left the room.</Utterance>
+        </Turn>
+        <Turn nickname="Jamfoot">
+            <Utterance genid="8" time="17 February 2013 09:27">I love your choice of header, because it reminds me of Finland&amp;#39;s own banking crisis in the 1990s that austerian policies turned into a depression. What happened in Finland back then is that all the parliamentary parties formed a coalition government. This was meant to be a show of national unity as well as show the government&amp;#39;s resolve (of which they had far too much, no doubt they would have tolerated 25% unemployment). Another unspoken effect of an all-encompassing coalition was &amp;quot;No debate please&amp;quot;. The government set the parameters of the debate, which in a nutshell amounted to &amp;quot;there are no alternatives&amp;quot;. If somebody tried to present alternatives to the government&amp;#39;s bloodyminded policies they were effectively frozen out and branded as unserious. How it must rankle Olli Rehn he can&amp;#39;t rely on such unity in the international community. BTW at the time Mr Rehn was a member of the parliamentary Finance Committee and special assistant to the Prime Minister. He really hasn&amp;#39;t changed at all, still peddling blood-letting as a cure. </Utterance>
+        </Turn>
+        <Turn nickname="Hajj umrah">
+            <Utterance genid="9" time="21 February 2013 04:13">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="Triumph">
+            <Utterance genid="10" time="22 February 2013 10:23">&amp;quot;economic recovery in the crisis economies of the eurozone is imminent&amp;quot;... in the long run we&amp;#39;re all dead</Utterance>
+        </Turn>
+        <Turn nickname="Srikanto Bormon">
+            <Utterance genid="11" time="15 May 2013 21:34">Visited so many blogs, I find this a very unique and interesting, glad to be here -inventhistoryClothingCommunicationEntertainmentElectricFinancialFood PreparationGreen TechnologySoftwareWarfareTransportationInstrumentsOffice</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

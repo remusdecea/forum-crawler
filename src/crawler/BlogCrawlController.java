@@ -1,6 +1,7 @@
 package crawler;
 
 import crawler.dto.Post;
+import crawler.polycafe.PolycafeFormatter;
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
 import edu.uci.ics.crawler4j.fetcher.PageFetcher;
@@ -10,14 +11,17 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.util.ArrayList;
 
+import org.codehaus.jettison.json.JSONArray;
+import org.codehaus.jettison.json.JSONObject;
+
 public class BlogCrawlController {
 
     public static final String CRAWL_DATA = "./crawlData/";
     public static final int NUMBER_OF_CRAWLERS = 5;
 
     public static final String[] BLOGS_ALLOWED  = {
-                        "http://globaleconomicanalysis.blogspot.de/",
-//            "http://notthetreasuryview.blogspot.de/"
+//                        "http://globaleconomicanalysis.blogspot.de/",
+            "http://notthetreasuryview.blogspot.de/"
     };
 
     public static final ArrayList<Post> allPosts = new ArrayList<Post>();
@@ -27,6 +31,7 @@ public class BlogCrawlController {
             //--- economie:",
 //            "http://mjperry.blogspot.com/",
 //            "http://globaleconomicanalysis.blogspot.de/",
+    	
             "http://notthetreasuryview.blogspot.de/",
 //            "http://noahpinionblog.blogspot.de/",
 //            "http://rwer.wordpress.com/",
@@ -50,7 +55,7 @@ public class BlogCrawlController {
         config.setCrawlStorageFolder(crawlStorageFolder);
         config.setPolitenessDelay(10);
         config.setMaxDepthOfCrawling(20);
-        config.setMaxPagesToFetch(1000);
+        config.setMaxPagesToFetch(100);
         config.setResumableCrawling(false);
 
         config.setUserAgentString("Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0");
@@ -67,5 +72,6 @@ public class BlogCrawlController {
 
         ObjectMapper jsonMapper = new ObjectMapper();
         System.out.println(jsonMapper.writeValueAsString(allPosts));
+        PolycafeFormatter.format(jsonMapper.writeValueAsString(allPosts));
     }
 }

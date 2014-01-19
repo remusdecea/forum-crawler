@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Illegal migrants: can't even get themselves arrested?</Topics>
+    <Participants>
+        <Person nickname="Gary"/>
+        <Person nickname="Kinger"/>
+        <Person nickname="Jo"/>
+        <Person nickname="Andrew Green"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Gary">
+            <Utterance genid="1" time="13 November 2012 04:27">I suspect that irregular migrants are not as big a problem as the public think, but I do think the estimate of 70% in London is probably wrong. It is also much harder for irregular migrants to get into the UK and work and live now.Legal migration also became much easier than illegal migration. Using sham marriages and sham colleges was much cheaper, safer and effective than using people trafficers.</Utterance>
+        </Turn>
+        <Turn nickname="Kinger">
+            <Utterance genid="2" time="13 November 2012 12:13">This comment has been removed by the author.</Utterance>
+        </Turn>
+        <Turn nickname="Kinger">
+            <Utterance genid="3" time="13 November 2012 12:13">Interesting analysis as ever. I recall a certain interview with Jeremy Paxman where Tony Blair would have loved to have his hands on these numbers! </Utterance>
+        </Turn>
+        <Turn nickname="Jo">
+            <Utterance genid="4" time="26 November 2012 05:24">Fascinating piece of work. There is another possibility as a rider to the condition &amp;quot;immediately detain&amp;quot; - and that is that the Immigration officials don&amp;#39;t step in at this stage to detain the persons, because the police are in any event proceeding against them for an alleged criminal offence. I.e. the criminal proceedings take precedence.</Utterance>
+        </Turn>
+        <Turn nickname="Andrew Green">
+            <Utterance genid="5" time="30 November 2012 02:43">There are plenty of problems with this,as you acknowledge.  One is that the UKBA often do not follow up cases from countries where returning illegals is very difficult, nor those who are like like to claim asylum so your key figure of 155 may well be only those judged &amp;quot;returnable&amp;quot;.          Secondly, the LSE estimate only allowed for 50,000 overstayers in seven years from among 12 million granted visas between 2001 and 2007.    A separate estimate, based on remittances, suggested an illegal population of 200,000 from Pakistan alone.See http://www.migrationwatchuk.org/briefingPaper/document/190</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

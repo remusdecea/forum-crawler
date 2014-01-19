@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>The economic impact of uprating policy</Topics>
+    <Participants>
+        <Person nickname="Saad Ali"/>
+        <Person nickname="Andrew Poulton"/>
+        <Person nickname="Big Bill"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Saad Ali">
+            <Utterance genid="1" time="8 January 2013 01:12">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="Andrew Poulton">
+            <Utterance genid="2" time="8 January 2013 07:34">Hi Jonathan, excellent as usual. &amp;quot;It is unclear why the Chancellor has suddenly chosen to disregard his own advice&amp;quot;I suggest this is because he never believed in it in the first place, rather it was a convenient argument to defend his failure to meet his own defecit and debt reduction targets (devastatingly laid bare in Steph Flander&amp;#39;s latest blog).However, allow me to play devil&amp;#39;s advocate for a moment, against the backdrop of a recent piece in the Sunday Times claiming that more than half of the country gets more from the state than it puts in. I didn&amp;#39;t believe this but having looked at it and fullfact.org&amp;#39;s assessment of it more carefully, while it is a little selective in places, it&amp;#39;s hard not to conclude that the state reamains &amp;quot;too big&amp;quot; for the income it brings in. And therein lies the Tories argument which is hard for the opposition to refute unless they can make a credible argument for making cuts somewhere else. This attack on welfare by the coalition is morally wrong and misleadingly framed by the coalition as you spell out, but the opposition have to be ready with alternatives. Health, education, social care... all areas that are equally if not more difficult for the opposition to propose cuts to. It&amp;#39;s not an impossible task economically, but politically it&amp;#39;s hard not to feel it is a completely impossible task.</Utterance>
+        </Turn>
+        <Turn nickname="Big Bill">
+            <Utterance genid="3" time="8 January 2013 11:48">Any excuse to do away with the benefits system so opening the market for the private insurance companies. That&amp;#39;s what the aim is here. This will be a multi-billion pound market and politicians from all the major parties want to get their snouts into that trough, from Peter Lilley who invited the American gang of crooks masquerading as an insurance company called Unum to act as consultants on welfare reform back in the mid-90s, as Private Eye have been informing us since then, through Purnell, who wrote he firt disabled-bashing article in the Telegraph where they were all labelled as scroungers and malingerers, through to IDS on TV today mouthing off in a similar vein. It&amp;#39;s pure, naked greed behind this, nothing more. To hell with the interests of the electorate. These people should be in jail. </Utterance>
+        </Turn>
+    </Body>
+</Dialog>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>A response from David Goodhart</Topics>
+    <Participants>
+        <Person nickname="Sumit Rahman"/>
+        <Person nickname="Gary"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Sumit Rahman">
+            <Utterance genid="1" time="3 April 2013 12:06">But the argument is usually easy enough to make from a nationalistic standpoint. &amp;quot;It&amp;#39;s in our interest to be in the EU. It&amp;#39;s good for us to be in the club, playing by the rules. Trade barriers hurt both sides in the long run&amp;quot; etc.</Utterance>
+        </Turn>
+        <Turn nickname="Gary">
+            <Utterance genid="2" time="5 April 2013 02:01">We pay a high price for free trade within the EU. I think our net contribution is about &amp;#163;8billion for about &amp;#163;140billion worth of exports to other EU countries, and then there is the cost of implementing and complying with EU rules and regulations on top of that.Keeping the free trade (and we are net importers from the rest of the EU so it would be in the other members interests) while losing the downsides seems sensible. Even keeping the free-ish movement of labour is probably in our interests as a service based economy.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

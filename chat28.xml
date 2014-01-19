@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Tomorrow's growth statistics today?</Topics>
+    <Participants>
+        <Person nickname="Mike"/>
+        <Person nickname="Julian Janssen"/>
+        <Person nickname="Jayarava"/>
+        <Person nickname="دردشة ومنتديات عراقنا"/>
+        <Person nickname="rscredits"/>
+        <Person nickname="love thomass"/>
+        <Person nickname="han yu"/>
+        <Person nickname="Love polo"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Mike">
+            <Utterance genid="1" time="24 October 2012 17:12">Love tab 4 in the screenshot.... :-)</Utterance>
+        </Turn>
+        <Turn nickname="Julian Janssen">
+            <Utterance genid="2" time="24 October 2012 23:37">Your screenshot reminds me of my blogging. I suggest you try software that captures a rectangle from the screen, like ABBYY screenshot or one of the freebies you can download. I really liked your video in the last post.</Utterance>
+        </Turn>
+        <Turn nickname="Jayarava">
+            <Utterance genid="3" time="25 October 2012 01:39">Well spotted. And I agree with your conclusion.Can I ask a question ahead of the figures being released? I trained in the sciences and we were taught not to cite a figure without making clear the precision and margin of error. It&amp;#39;s very difficult to get a straight forward measure of the margin of error on these short term GDP estimates. Precision is obviously 0.1%.When I looked at average revisions over time it seemed to be about &amp;#177;0.5%. This is a kind of estimate of one part of the total error. So if, as many are predicting, growth this quarter is 0.5% &amp;#177;0.5% &amp;#177; the error in the initial measurement. In other words the figure is virtually meaningless.Of course virtual meaninglessness has never stopped an economist from employing a measure before.Any thoughts on why no one talks about uncertainty in these measures, and why figures on the uncertainty are near impossible for lay people to find or calculate?</Utterance>
+        </Turn>
+        <Turn nickname="دردشة ومنتديات عراقنا">
+            <Utterance genid="4" time="28 November 2012 06:56">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="rscredits">
+            <Utterance genid="5" time="29 December 2012 00:08">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="love thomass">
+            <Utterance genid="6" time="3 January 2013 01:14">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="han yu">
+            <Utterance genid="7" time="9 January 2013 02:08">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="Love polo">
+            <Utterance genid="8" time="14 January 2013 01:32">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

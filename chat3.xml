@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Comment on Reinhart and Rogoff's FT article</Topics>
+    <Participants>
+        <Person nickname="JamTheCat"/>
+        <Person nickname="Haynes Goddard"/>
+        <Person nickname="Robert"/>
+        <Person nickname="nottrampis"/>
+        <Person nickname="Sandwichman"/>
+        <Person nickname="Bruschettaboy"/>
+        <Person nickname="Simon"/>
+        <Person nickname="Greg Hill"/>
+        <Person nickname="R Davis"/>
+    </Participants>
+    <Body>
+        <Turn nickname="JamTheCat">
+            <Utterance genid="1" time="2 May 2013 16:28">R&amp;amp;R just don&amp;#39;t have the intellectual capability or inner strength to admit they were wrong about the economic collapse and how to get out of it, so they&amp;#39;re doing all they can to mitigate the reality of the fact that they screwed up and did so royally. They remind me more of a 15 year old boy who doesn&amp;#39;t want to take responsibility for the fact that he wrecked the car by not paying attention, rather than adults who accept responsibility for their actions. But I suppose that&amp;#39;s to be expected; they helped fuel a political force that has caused untold pain and misery, and taking any sort of responsibility for that would mean accepting the fact that they helped ruin God knows how many people&amp;#39;s lives and set loose a beast that now refuses to be tamed.</Utterance>
+        </Turn>
+        <Turn nickname="Haynes Goddard">
+            <Utterance genid="2" time="2 May 2013 17:34">The problem is that it is really, really hard for humans to admit a mistake, and even harder when you have a Ph.D. and have repeated the mistake endlessly in public. </Utterance>
+        </Turn>
+        <Turn nickname="Robert">
+            <Utterance genid="3" time="2 May 2013 22:04">This is an excellent post.  I think there is a problem with opinion pages editorial standards concerning straw men, uh I should write straw persons to conform to gender neutral editorial standards.The FT opinion editor could have writen a query to authors in red ink &amp;quot;name at least two such ultra Keynesians or delete the reference to &amp;quot;ultra Keynesians&amp;quot;.  I think one *might* be Jamie Galbraith.  Really this comment is just my 2 minutes Chaithttp://nymag.com/daily/intelligencer/2013/04/david-brooks-and-the-role-of-opinion-journalism.html&amp;quot;2. Don&amp;#8217;t debate straw men. If you&amp;#8217;re arguing against an idea, you need to accurately describe the people who hold them. If at all possible, link to them and quote their argument. This is a discipline that forces opinion writers to prove that they&amp;#8217;re debating an idea somebody actually holds. And quoting the subject forces them to show that somebody influential holds it &amp;#8212; if the best example of the opposing view is a random blog comment, then you&amp;#8217;re exposing the fact that you&amp;#8217;re arguing against an idea nobody of any stature shares. This ought to be an easy and universal guideline, but in reality, it&amp;#8217;s mostly flouted.&amp;quot;My only semi-original thought is that this guideline could be an absolute rule imposed by editors.  News reporters are not allowed to cite completely unidentified sources (and are supposed to grant anonymity only for compelling reasons).  What is gained by allowing opinion writers to do so ? </Utterance>
+        </Turn>
+        <Turn nickname="nottrampis">
+            <Utterance genid="4" time="2 May 2013 22:12">Well I have highlighted this article and so has Mark Thoma.I am betting more people will read via Mark but more will come from OZ through me</Utterance>
+        </Turn>
+        <Turn nickname="Sandwichman">
+            <Utterance genid="5" time="2 May 2013 22:18">&amp;quot;Don&amp;#8217;t debate straw men. If you&amp;#8217;re arguing against an idea, you need to accurately describe the people who hold them. If at all possible, link to them and quote their argument. This is a discipline that forces opinion writers to prove that they&amp;#8217;re debating an idea somebody actually holds.... This ought to be an easy and universal guideline, but in reality, it&amp;#8217;s mostly flouted.&amp;quot;You can say that again!&amp;quot;Don&amp;#8217;t debate straw men. If you&amp;#8217;re arguing against an idea, you need to accurately describe the people who hold them. If at all possible, link to them and quote their argument. This is a discipline that forces opinion writers to prove that they&amp;#8217;re debating an idea somebody actually holds.... This ought to be an easy and universal guideline, but in reality, it&amp;#8217;s mostly flouted.&amp;quot;</Utterance>
+        </Turn>
+        <Turn nickname="Bruschettaboy">
+            <Utterance genid="6" time="3 May 2013 00:59">Since Carmen Reinhart&amp;#39;s husband is (I think) an acquaintance of Warren Mosler, &amp;quot;Ultra-Keynesians&amp;quot; in context is likely to mean MMT.http://moslereconomics.com/2013/05/02/rogoff-reinhart-answering-my-call-in-ft-austerity-is-not-the-only-answer-to-a-debt-problem/</Utterance>
+        </Turn>
+        <Turn nickname="Simon">
+            <Utterance genid="7" time="3 May 2013 04:11">For anyone interested in some very insightful background on Rogoff &amp;amp; Reinhart&amp;#39;s views, read Senator Tom Coburn&amp;#39;s narrative on a meeting of American politicians with them, which Brad DeLong posted a few days ago.http://delong.typepad.com/sdj/2013/05/is-a-higher-borrowing-trajectory-warranted-or-not.html</Utterance>
+        </Turn>
+        <Turn nickname="Greg Hill">
+            <Utterance genid="8" time="3 May 2013 16:58">R&amp;amp;R&amp;#39;s reference to Keynes&amp;#39;s short book, &amp;quot;How to Pay for the War,&amp;quot; is grasping at straws.  The most innovative idea in the book was Keynes&amp;#39;s proposal for &amp;#8220;deferred savings&amp;#8221; under which a portion of workers&amp;#8217; pay would be &amp;#8220;deferred,&amp;#8221; i.e., a mandatory savings plan.  The aim was not to reduce debt, but, as you point out, to reduce inflation.  If all of workers&amp;#8217; wages were spent in circumstances where I/Y had risen and C/Y declined, the price of C goods would rise, and workers&amp;#39; extra spending would bring them nothing extra in the form of goods.  Better to have labor defer its claims on output until after the war.  (A fascinating case of inter-temporal optimization). </Utterance>
+        </Turn>
+        <Turn nickname="R Davis">
+            <Utterance genid="9" time="5 May 2013 12:38">In order to &amp;quot;reconnect with the facts&amp;quot;, Reinhart and Rogoff would do well to release a spreadsheet that shows those facts and their calculation.  They admitted to a &amp;quot;minor&amp;quot; spreadsheet error but denied that there was any problem with selective exclusion and questionable weighting of data.  However, the analysis of the data at http://usbudget.blogspot.com/2013/05/is-there-debtgdp-threshold-at-90_4.html shows that the exclusion and weighting is, in fact, a larger problem than the spreadsheet error.  Consumers of such economic studies need to demand that they be peer-reviewed and that all of the calculations (i.e. the spreadsheets) be released to the public.  If we ignore studies that don&amp;#39;t fulfill these requirements, I suspect that most economists would start to do both.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

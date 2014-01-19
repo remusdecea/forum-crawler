@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>A Socratic dialogue with @ToryTreasury</Topics>
+    <Participants>
+        <Person nickname="Oldsoul_NotQuite"/>
+        <Person nickname="James"/>
+        <Person nickname="John"/>
+        <Person nickname="Simon"/>
+        <Person nickname="Ola S"/>
+        <Person nickname="layla johnson"/>
+        <Person nickname="Stephan White"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Oldsoul_NotQuite">
+            <Utterance genid="1" time="24 March 2013 11:58">Rather despairing all of this. It seems that on several economic topics (public finances, labour market regulation, QE/ monetary policy) a good chunk of the opinion- makers are not part of the reality based community. </Utterance>
+        </Turn>
+        <Turn nickname="James">
+            <Utterance genid="2" time="24 March 2013 19:34">How exciting to see tour own conservatives conducting politics in the modern muscular American fashion! There&amp;#39;s no need for multiplers or an economic model or any of that academic stuff that hurts your brain, and who needs logical argument when there&amp;#39;s always a ready supply of cheap and cheerful insults to hand.</Utterance>
+        </Turn>
+        <Turn nickname="John">
+            <Utterance genid="3" time="25 March 2013 00:17">The trouble is some Tory minister (Pickles is a good bet) will put the original tweet (Ed Miliband&amp;#39;s spending plans he repeated today would mean &amp;#163;33bn more borrowing this year - driving the deficit back up to double-digits.) in a press release. Journalists will pick it up, repeat it as &amp;#39;Government&amp;#39; fact and before you know it the debate is about borrowing an extra &amp;#163;33bn rather than the different policies from the parties.The Tory spin doctors know what they&amp;#39;re doing .</Utterance>
+        </Turn>
+        <Turn nickname="Simon">
+            <Utterance genid="4" time="25 March 2013 03:58">This is the story of the current government in a microcosm. Don&amp;#39;t let inconveniences like empirical evidence, data and reality get in the way of ideologically driven goals. Then, anyone who dares to question, disagree or simply seek clarification (as you do), is met with the tell-tale response which confirms that they have no evidence or substantive basis for their arguments - responses characterized by ad-hominem&amp;#39;s, logical fallacies and a general impatient, frustrated tone which screams &amp;quot;who do you think you are...how dare you challenge our views&amp;quot;.Interestingly, on Question Time last week Michael Gove made a comment which he had to stop himself from completing, but revealed their ideology regarding government spending and multipliers:(Not verbatim) &amp;quot;Only private sector investment can create wealth; the public sector.......&amp;quot; At which point he stopped himself, but given the structure, context and direct comparison being made in the statement, I wonder if the missing word was &amp;quot;cannot&amp;quot;.Thereby denying and refuting reams of empirical evidence which shows that, particularly in economies at the ZLB, public sector investment can due to the positive multiplier (usually &amp;gt;1 in ZLB conditions). </Utterance>
+        </Turn>
+        <Turn nickname="Ola S">
+            <Utterance genid="5" time="25 March 2013 12:14">By all means make it up as you go along.  However, don&amp;#39;t get all teary when people ask you to justify your assumptions etc. Glad that @jdportes, Danny Blanchflower and others are prepared to challenge.</Utterance>
+        </Turn>
+        <Turn nickname="layla johnson">
+            <Utterance genid="6" time="26 March 2013 00:55">I was very pleased to find this site. I definitely enjoyed reading every little bit of it and I have it bookmarked to check out new stuff posted regularly.home plans</Utterance>
+        </Turn>
+        <Turn nickname="Stephan White">
+            <Utterance genid="7" time="26 April 2013 04:33">This is the story of the current government in a microcosm.Don&amp;#39;t let inconveniences like empirical evidence, data and reality get in the way of ideologically driven goals.  Glyn Willmoth</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

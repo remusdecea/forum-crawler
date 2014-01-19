@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>The impacts of immigration: my summary of the evidence (video)</Topics>
+    <Participants>
+        <Person nickname="FPPeterson"/>
+        <Person nickname="joni rana"/>
+    </Participants>
+    <Body>
+        <Turn nickname="FPPeterson">
+            <Utterance genid="1" time="12 May 2013 14:50">The underlying message being presented here, as well as the principal claim being made, is that in order to be economically successful in the coming decades Britain will need to be open not just to business, but also to immigration. It is only through availing ourselves of the benefits that a liberal immigration system can provide - the interchange of ideas, the promotion of healthy competition, the injection of entrepreneuralism and the (unenumerated) benefits of &amp;#39;diversity&amp;#39; - that Britain will be able to pay its way in the future world.There appear to be two difficulties with this proposition. The first is that the great majority of permanent immigrants to Britain originate in countries whose economic and social development is some way behind our own, so it is not immediately clear that the migrant stream from such sources will be able  to deliver the sort of benefits that are said to accrue. The second difficulty is that, rather than being an immutable law of economics (or anything other science , hard or soft), the so-called benefits of immigration tend to be more of an article of faith than anything else. There are after all a number of successful economies that can be cited that do not have the sort of liberal immigration policies which we are advised are a prerequisite for economic success in the 21st century.   </Utterance>
+        </Turn>
+        <Turn nickname="joni rana">
+            <Utterance genid="2" time="13 May 2013 04:26">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

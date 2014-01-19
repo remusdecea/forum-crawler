@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Immigration as a growth strategy</Topics>
+    <Participants>
+        <Person nickname="Oldsoul_NotQuite"/>
+        <Person nickname="Gary"/>
+        <Person nickname="city"/>
+        <Person nickname="David McKeever"/>
+        <Person nickname="Rihana Gomez"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Oldsoul_NotQuite">
+            <Utterance genid="1" time="9 January 2013 09:30">This is v. good. You need to send this to David Goodhart ASAP with an urgent please read stamped on it in big bold letters. Last night on Newsnight he blithely opined that the &amp;#39;immigration debate was over with a national consensus around net migration of 120K or so, a position he personally supported with enthusiasm.&amp;#39; Whatever one may think of Demos, on this topic it is not liberal. </Utterance>
+        </Turn>
+        <Turn nickname="Gary">
+            <Utterance genid="2" time="10 January 2013 00:44">&amp;quot;We still do not know&amp;quot;Despite a lot of research, there is no strong evidence that mass immigration to the UK improves GDP per capita, employment outcomes or wages for natives (and there is some evidence that it has a negative effect). At best your arguments are based on anecdotal evidence, wishful thinking and some (biased or non-transferable) research from other countries e.g. Peri&amp;#39;s research shows an association between immigration and growth but exclusively for oil rich states and ignores the obvious fact that the richer a country becomes the more immigrants it attracts.I would accept some immigration and specific types of immigration can be good, but this does not mean that more is better or that net immigration of 100,000 would necessarily be worse than 200,000.</Utterance>
+        </Turn>
+        <Turn nickname="Gary">
+            <Utterance genid="3" time="10 January 2013 01:40">The number of patents from immigrants in the US has been used to suggest the benefits of immigration. However you need to understand some of the underlying causes.Just over a decade ago the US made it easier to patent software ideas e.g. displaying an animation of a page turning when you turn a page in an ebook. There has been a lot of debate on whether this has helped or hindered innovation but it has certainly been a boon for patent trolls. There has been a large increase in patents and many companies have moved from real innovation and R&amp;amp;D to having patent factories that try to patent anything. It is not particularly innovative and intellectually rewarding but it created need for a lot of cheap degree educated workers to do the donkey work. Some companies have used H1B visas to get cheap degree educated workers to do the work (often led by experienced US workers).For example, Microsoft got its 5000th patent in 2005 after about 30 years in business. In 2008, it hit 10,000 and now gets 3,000 to 4,000 a year.</Utterance>
+        </Turn>
+        <Turn nickname="city">
+            <Utterance genid="4" time="28 January 2013 20:25">thanks for share...</Utterance>
+        </Turn>
+        <Turn nickname="David McKeever">
+            <Utterance genid="5" time="25 March 2013 10:06">The detail on which the conclusions are based virtually ignore the effect of unemployment on the local population,such as the creation of &amp;#39;No ambition&amp;#39; &amp;#39; not worth studying there are no jobs. This is of course the true reason for the dependency society.Also the readily available cheap labour creatde by immigration reduces the need for Employer innovation, and experience of the ost war years would suggest the investment for improving productivity,Then there is the undoubted problem of Social unrest we may have seen some with the recent riots, but that may well be only the fore runner of what is to come unless Employment opportunities are improved for indiginous British people. </Utterance>
+        </Turn>
+        <Turn nickname="Rihana Gomez">
+            <Utterance genid="6" time="11 April 2013 07:33">As would be expected, the direction of causality seems to be high income per capita results in higher immigration. Spain being a very good example of low immigration followed by economic boom followed by high immigration.I won&amp;#39;t go through all the contradictions/errors in their responses, but I will deal with the most important one covered in responses 2) and 5).Contrary to their claims, they did look at bilateral migration shares by origin, it did not fit well, and this is very important as it undermines the story behind the IV/gravity equation.Their sections covering diversity and emigration show that their instrumented foreign born (based on distances between countries etc) may fit the total foreign born but not the origin of those foreign born. To quote:&amp;quot;Ideally, we would like to use our gravity predictors for bilateral flows to build an instrument for the diversity index as well. In practice the gravity model delivers a predicted diversity index that is a poor fit for the index calculated using actual data.&amp;quot;Watch tons of videos on You-YouTube. Share You YouTube videos with friends, family, and the world. Collection of the Best Videos on You-YouTube.The latest music videos, short movies, tv shows, funny and extreme videos. Upload, share, and embed your videos. Watch premium and official videos free online. Discover our featured content.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

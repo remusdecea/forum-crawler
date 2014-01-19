@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>The Future Jobs Fund: what a waste</Topics>
+    <Participants>
+        <Person nickname="city"/>
+        <Person nickname="TjjG"/>
+        <Person nickname="Hannah"/>
+        <Person nickname="www.Studyguideindia.com"/>
+        <Person nickname="Big Bill"/>
+        <Person nickname="Wafa Ahmad"/>
+        <Person nickname="Calvin Brock"/>
+        <Person nickname="Gexton"/>
+    </Participants>
+    <Body>
+        <Turn nickname="city">
+            <Utterance genid="1" time="24 November 2012 18:58">thanks for sharing.</Utterance>
+        </Turn>
+        <Turn nickname="TjjG">
+            <Utterance genid="2" time="27 November 2012 09:44">If the results of the Work Programme don&amp;#39;t improve quickly, FJF cancellation plus WP roll-out will become frightening case studies in policy failure - see http://www.instituteforgovernment.org.uk/blog/5223/non-payment-for-non-results/</Utterance>
+        </Turn>
+        <Turn nickname="Hannah">
+            <Utterance genid="3" time="29 November 2012 02:18">Off the back of the success of FJF, Scottish Government created Community Jobs Scotland (CJS). CJS created 1,800+ jobs across Scotland last year for 16-24 year olds and this year aim to create a further 1,400 jobs for 16-19 year olds. More details here: www.scvo.org.uk/cjs </Utterance>
+        </Turn>
+        <Turn nickname="www.Studyguideindia.com">
+            <Utterance genid="4" time="17 December 2012 07:33">Jobs in India, Search Best Jobs India, Employment, Vacancy, Free Jobs in India. Jobs in India </Utterance>
+        </Turn>
+        <Turn nickname="Big Bill">
+            <Utterance genid="5" time="16 February 2013 03:05">Interesting that, entirely sans supporting evidence, the PM can declare the Future Jobs Fund a failure and the Work Programme a success. The man&amp;#39;s a fraud.</Utterance>
+        </Turn>
+        <Turn nickname="Wafa Ahmad">
+            <Utterance genid="6" time="18 February 2013 20:58">thank you Jonathan to share the post the future jobs fund, its really helpful and informative, i am going to share with my friends, hope that they will like it... appreciated</Utterance>
+        </Turn>
+        <Turn nickname="Calvin Brock">
+            <Utterance genid="7" time="21 February 2013 02:51">I was very pleased to find this site.I wanted to thank you for this great read!! I definitely enjoying every little bit of it and I have you bookmarked to check out new stuff you post. uk background checks</Utterance>
+        </Turn>
+        <Turn nickname="Gexton">
+            <Utterance genid="8" time="4 March 2013 22:51">This Is Very Nice Post And So Information Blog about Pension Releasepension loanpension release</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

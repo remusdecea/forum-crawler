@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Speaking English does matter. But almost all immigrants to the UK do. </Topics>
+    <Participants>
+        <Person nickname="Julian"/>
+        <Person nickname="Gyanesh DAN"/>
+        <Person nickname="kannan thiyagarajan"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Julian">
+            <Utterance genid="1" time="6 March 2013 05:08">My step-father swears blind that, when he went to vote in the 1979 election (at the polling station that had previously been his primary school), the policeman on duty at the polling station told him that all teachers in Brent had to speak &amp;quot;Bangladeshi&amp;quot;, because Ken Livingstone said so.</Utterance>
+        </Turn>
+        <Turn nickname="Gyanesh DAN">
+            <Utterance genid="2" time="1 May 2013 13:38">http://speakingenglishlanguage.blogspot.com/</Utterance>
+        </Turn>
+        <Turn nickname="kannan thiyagarajan">
+            <Utterance genid="3" time="5 May 2013 08:45">Spoken English Video Training And Self Learning DVD&amp;#8217;s For sale. 2 DVD&amp;#8217;s Just Rs 200/= Only. Contact us: T.Kannan.Cell: 09976570800</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

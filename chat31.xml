@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>The government's mid term review: deficit reduction</Topics>
+    <Participants>
+        <Person nickname="gptrag"/>
+    </Participants>
+    <Body>
+        <Turn nickname="gptrag">
+            <Utterance genid="1" time="4 February 2013 11:52">(1) The damage done to the economy by the fiscal adjustment in reducing the structural deficit by 1% can hardly be &amp;quot;too fast&amp;quot;.  Surely the overwhelming and more note-worthy amount of damage done to the economy has been caused by cutting the deficit by &amp;quot;25%&amp;quot; by eliminating capital investment.  (2) I think that comparing the structural deficit forecast by Mr Brown and Mr Darling with that caused by Cambourne &amp;amp; Clegg without further explanation is also dubious.  Labour&amp;#39;s efforts to continue the recovery would have resulted in a stark difference in the make-up of the structural deficit as a result of growth, when contrasted with C&amp;amp;C&amp;#39;s unhappy tinkering with benefits which nevertheless continue to increase overall as a result of a policy of growth-adverse stagnation.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

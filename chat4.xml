@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>The deficit is falling..</Topics>
+    <Participants>
+        <Person nickname="Mason Dixon, Autistic"/>
+        <Person nickname="Postkey"/>
+        <Person nickname="nottrampis"/>
+        <Person nickname="Robert Andersen"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Mason Dixon, Autistic">
+            <Utterance genid="1" time="23 April 2013 09:56">The Treasury response-Erm, didn&amp;#39;t they increase the planned cuts to the welfare budget twice when they missed their forecasts? First it was &amp;#163;10bn, then it was &amp;#163;18bn, then it became &amp;#163;28bn. Hardly &amp;#39;letting the stabilisers work&amp;#39;.</Utterance>
+        </Turn>
+        <Turn nickname="Postkey">
+            <Utterance genid="2" time="24 April 2013 01:21">&amp;quot;structural deficit&amp;quot;?&amp;quot;The distinction between automatic and discretionary fiscal policy, and hence between cyclical and structural deficits, is a political distinction, not an economic one.&amp;quot;&amp;#8220;I fear, then, that the idea of a structural deficit serves a political rather than analytical function. It&amp;#39;s a pseudo-scientific concept which serves to legitimate what is in fact a pure judgment call - that borrowing needs cutting. By all means, make this call. Just don&amp;#39;t think that talk of a structural deficit helps enlighten us.&amp;#8221;http://www.investorschronicle.co.uk/Columnists/ChrisDillow/article/20100215/1b8f8020-1a1e-11df-b0bd-0015171400aa/The-myth-of-the-structural-deficit.jsp</Utterance>
+        </Turn>
+        <Turn nickname="nottrampis">
+            <Utterance genid="3" time="25 April 2013 18:44">Jonathon, A big thank you from downunder.hopefully more people down here will read you.Keep it up</Utterance>
+        </Turn>
+        <Turn nickname="Robert Andersen">
+            <Utterance genid="4" time="29 April 2013 12:35"> &amp;#39;there is no economic rationale, theoretical or empirical, that I  can think of to justify the particular - very odd looking - trajectory of deficit reduction set out in the chart above&amp;#39;Indeed there isn&amp;#39;t and it&amp;#39;s best to remember this when dealing with the fluidity of the situation at home, in Europe and globally. We are faced with a once in a lifetime crisis in which the UK particularly was very ill prepared.Perhaps it might be best to look at our performance relative to our neighbours- in Europe the unemployment rate is 12%, in Spain it is 27%!! etc... their economies are shrinking whilst the UK is flat and however one measures, the structural deficit is reducing WHILST the private sector created a million or so jobs. For now this may be the only solace we allow ourselves, however momentary.Those that cannot recognise that there are forces that no models or statistics or textbooks can measure or predict are ill equipped to understand the &amp;#39;animal spirits&amp;#39; that Keynes referred to, and will always feel &amp;#39;lost&amp;#39; when the only appropriate response is indeed to muddle through. The analogy of being half way through battle may help!</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

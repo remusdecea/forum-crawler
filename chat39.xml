@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>More on multipliers: why does it matter?</Topics>
+    <Participants>
+        <Person nickname="Unknown"/>
+        <Person nickname="Sandwichman"/>
+        <Person nickname="Robert"/>
+        <Person nickname="ejh"/>
+        <Person nickname="Postkey"/>
+        <Person nickname="jck"/>
+        <Person nickname="Jonathan Hopkin"/>
+        <Person nickname="smarthomeman"/>
+        <Person nickname="somnus11258"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Unknown">
+            <Utterance genid="1" time="13 October 2012 09:46">Fascinating thank you, is there any way of calculating the gains on the supply side from fiscal contraction? Presumably there might be some - how and when those gains kick in would be doubtless difficult to ascertain but has any work been done on it.Phillip Blond</Utterance>
+        </Turn>
+        <Turn nickname="Sandwichman">
+            <Utterance genid="2" time="13 October 2012 14:22">&amp;quot;I discovered that research into dozens of past fiscal tightenings shows that, more often than not, growth doesn&amp;#39;t fall but accelerates.&amp;quot;Another one of Matthew Hancock&amp;#39;s profound insights: &amp;quot;As an economist working in politics, I&amp;#8217;m sometimes shocked at some of the arguments about the economy.&amp;quot;http://blogs.spectator.co.uk/coffeehouse/2011/02/milibands-economic-immaturity/Of course, he&amp;#39;s only &amp;quot;shocked&amp;quot; when those arguments don&amp;#39;t conform to his ideological priors.</Utterance>
+        </Turn>
+        <Turn nickname="Robert">
+            <Utterance genid="3" time="13 October 2012 17:56">This comment has been removed by the author.</Utterance>
+        </Turn>
+        <Turn nickname="Robert">
+            <Utterance genid="4" time="13 October 2012 18:21">Any definition of &amp;quot;the multiplier&amp;quot; is misleading.  In the IS-LM model, New Keynesian models and reality there are three fiscal multipliers.  All existing theories in which the multipliers are not all zero and the data imply that the effect of a spending cut on output is greater than the effect of a tax increase.  The difference is the balanced budget multiplier.  By your definition this would be meaningless -- something divided by zero by definition.  The evidence does not support the assumption that the balanced budget multiplier must be zero.  \Here a lot of the evidence is the one episode of the tax financed US war effort in Korea, but there is indirect evidence from differing estimates of the effects of deficit financed spending increases and of tax cuts.I think it would be better to have provided no definition than to have presented only one.  Recall the heated debate over the composition of the ARRA (US 2009 stimulus) which would be incomprehensible if it were agreed that there is one and only one fiscal multiplier)Honestly, this comment has been edited to make it more nearly polite.  Fans of rudeness can read my original effort herehttp://rjwaldmann.blogspot.it/2012/10/ruder-comment-on-portes.html(warning very safe for work, nasty, and pedantic).</Utterance>
+        </Turn>
+        <Turn nickname="Robert">
+            <Utterance genid="5" time="13 October 2012 18:39">I have another objection.  You claim without making the case that Spain needs &amp;quot;structural reform, especially labour market reform.&amp;quot;My impression is that Spain enacted quite radical labour market reform starting decades ago.  In particular the extremely rigid Franco era firing restrictions were relaxed for newly hired workers by the Suarez government and then still more by the Gonzales government.  This reform in Spain was enacted long long before the Shroeder reforms in Germany.The timing is very important, since all the reforms preserved employment protection for those employed at the time of the reform (IIRC).  Spain, unlike Germany, had a huge number of workers without strong employment security -- workers who had been hired since the reforms and not shifted to the protected employment relationship.This made the extremely rapid increase in Spanish unemployment possible. One might also argue that what Spain needs is deregulation of banking so that foreign banks can open offices in Spain and so the international flow of capital is not hindered by the highly regulated protected Spanish banking system.  I don&amp;#39;t think that you are one who would make that argument (it is a parody -- I&amp;#39;ve been in Spain and seen branches of UK based banks all over).  However, I honestly don&amp;#39;t see why the argument for labour market deregulation is so much stronger than the argument that Spain wouldn&amp;#39;t be in such trouble if only they had been able to attract foreign financial investment (again this is a parody-- I am not suggesting that you (or indeed any sentient being) would make that argument).Why do you think that Spain needs further labour market reforms ?  It is an important question, yet you seem to consider the answer completely obvious ?</Utterance>
+        </Turn>
+        <Turn nickname="ejh">
+            <Utterance genid="6" time="14 October 2012 01:37">The IMF clearly now agrees with this, as Christine Lagarde has made clear in the case of GreeceBut not in fact in the case of Spain, where only last week she described the Rajoy programme as &amp;quot;very, very brave&amp;quot;. I think people who, like myself, actually live in Spain, may be forgiven for waiting until there is a shift in actual policy, rather than an apparent intellectual shift, before considering that anything so &amp;quot;clear&amp;quot; has occurred.(As for Spain needing further labour market reform - do me a favour. What we need is jobs.)</Utterance>
+        </Turn>
+        <Turn nickname="Postkey">
+            <Utterance genid="7" time="14 October 2012 03:17">&amp;quot;Infrastructure investment spending is 3 times more effective in increasing &amp;#39;growth&amp;#39; than tax cuts.&amp;quot;John Cridland of the CBI.</Utterance>
+        </Turn>
+        <Turn nickname="jck">
+            <Utterance genid="8" time="14 October 2012 05:51">&amp;quot;...multiplier identities suffer from a &amp;#8216;lack of any innate theoretical, or behavioural, content&amp;#8217; so that accounts of the underlying dynamic processes based on them &amp;#8216;are at best misleading and often wrong&amp;#8217;.&amp;quot;Charles Goodhart</Utterance>
+        </Turn>
+        <Turn nickname="Jonathan Hopkin">
+            <Utterance genid="9" time="15 October 2012 01:50">Spain&amp;#39;s labour institutions are obviously not ideal, but where is the evidence that wholesale liberalization would create jobs? There is very little geographical labour mobility in Spain, and some areas have quite low unemployment normally (the same goes for Italy). Do you really think investors will flood Andalusia with jobs if firing costs are slashed? The answer lies elsewhere, and the apparent correlation between labour protection and unemployment is probably driven by politics. Reducing labour protections when there are no alternative jobs for the potential firees is obviously going to lead to huge protests, which is why it hasn&amp;#39;t happened until the crisis (and still hasn&amp;#39;t really).</Utterance>
+        </Turn>
+        <Turn nickname="smarthomeman">
+            <Utterance genid="10" time="15 October 2012 05:03">Why on earth does everyone seem to be making the simplifying assumption that the multiplier will stay fixed over the unfolding cycle? As a businessman my instincts tell me otherwise. I think that things are improving over time.A possible explanation for this is that when the financial crisis first hit, the downturn was so severe that the private sector had no idea how to react. As time has gone on, lessons have been learned, and the effects of the belt-tightening have been more successfully mitigated.Basing future economic policy on the historic data from the early years of the crisis may be a dangerous mistake.</Utterance>
+        </Turn>
+        <Turn nickname="somnus11258">
+            <Utterance genid="11" time="24 April 2013 21:02"> this research was quickly picked up on by those politicians who wanted aggressive deficit cuts,You can learn more: China Travel Agency | China tour operator | China tour packages</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

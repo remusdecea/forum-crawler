@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Talking tough (but intelligent) on crime</Topics>
+    <Participants>
+        <Person nickname="neroden@gmail"/>
+    </Participants>
+    <Body>
+        <Turn nickname="neroden@gmail">
+            <Utterance genid="1" time="19 November 2012 21:37">Unpaid work is very problematic as a punishment.  It creates incentives and temptations on the part of government officials to convict more people (because, more free labor!).  We&amp;#39;ve seen this play out repeatedly in the US.  It is perilously close to slavery.Any forced labor punishment should be paid labor, and paid at minimum wage so as not to undercut the wages of other workers.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

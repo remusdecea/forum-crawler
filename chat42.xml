@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Marking myself to market: my predictions for 2012, revisited</Topics>
+    <Participants>
+        <Person nickname="Harry Alffa"/>
+        <Person nickname="Robert Andersen"/>
+        <Person nickname="Simon"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Harry Alffa">
+            <Utterance genid="1" time="21 December 2012 13:03">This comment has been removed by a blog administrator.</Utterance>
+        </Turn>
+        <Turn nickname="Robert Andersen">
+            <Utterance genid="2" time="23 December 2012 11:29">Mark to market? Without numbers? Interesting. On the unemployment you were wrong, as with GDP numbers- not your fault, all economists have underestimated EU impact but then economists aren&amp;#39;t in business, they just talk about it. The jury is still out on the UK&amp;#39;s mild austerity.As for being unsure what it means to retain bond markets faith, well, how to say politely... many economists  don&amp;#39;t understand how bond investors operate.Finally, after the second world war, Japan was one of the poorest countries in the world, now it&amp;#39;s population enjoys a high standard of living. It&amp;#39;s rates have been relatively low compared to ours ALL this time...ooops! </Utterance>
+        </Turn>
+        <Turn nickname="Simon">
+            <Utterance genid="3" time="29 December 2012 04:19">&amp;quot;But our current historically very low level of interest rates is - just as in Japan - a sign of economic failure, not success.&amp;quot;Robert is right that Japan&amp;#39;s rates have been relatively lower than ours, but they have been much higher in the past than presently (though still a little lower than ours.  The important word is &amp;quot;Current&amp;quot;, rather than rates over the longer term since WW2, with J Portes referring to Japan&amp;#39;s economy since the 1990s to the present - the &amp;#39;lost&amp;#39; decades of poor economic performance. Hence the &amp;quot;sign of economic failure&amp;quot; comment.See graphs for both countries: http://www.gecodia.com/UK-Government-10Y-Yields_a1789.htmlhttp://www.gecodia.com/Japan-Government-10Y-Yields_a1305.html</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

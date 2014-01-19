@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Self-defeating austerity?</Topics>
+    <Participants>
+        <Person nickname="Simon"/>
+        <Person nickname="Big Bill"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Simon">
+            <Utterance genid="1" time="2 November 2012 05:32">Another excellent, insightful and highly informative report, which given the nature and impact of its conclusions, should have made headline news and be one of the main debating points among politicians and throughout the serious media. Which leads me onto a question which I hope you are able to answer, if only briefly:  Why, when given all of the extensive empirical data from reliable, independently verified sources, which highlight and prove the folly of the current fiscal consolidation policy, do our politicians (Cameron, Osborne et al) choose to not act on it, and in fact continue to do the opposite, despite the overwhelming evidence in your report, and complete lack of evidence in favour of their views?  Linked to this, we know about the negative social and economic impacts, but by pursuing austerity, what is actually in it for Cameron, Osborne and their followers?Any reply will be gratefully received...  </Utterance>
+        </Turn>
+        <Turn nickname="Big Bill">
+            <Utterance genid="2" time="14 November 2012 10:06">Austerity can be used as an excuse to dismantle the welfare state and the NHS, allowing their American business chums to come in and replace them both with paid insurance services. That&amp;#39;s a multi-billion pound market busted wide open. We&amp;#39;ll all have worse services we have to pay more for (or no service at all if we can&amp;#39;t pay) and Cameron and his chums will be billionaires. It&amp;#39;s not rocket science...</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

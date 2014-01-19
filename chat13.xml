@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Immigration and the UK labour market</Topics>
+    <Participants>
+        <Person nickname="nancy john"/>
+        <Person nickname="Gary"/>
+        <Person nickname="nish81"/>
+        <Person nickname="david k"/>
+    </Participants>
+    <Body>
+        <Turn nickname="nancy john">
+            <Utterance genid="1" time="27 February 2013 20:39">Good post about immigration it is very useful information Canada Immigration Basics</Utterance>
+        </Turn>
+        <Turn nickname="Gary">
+            <Utterance genid="2" time="27 February 2013 23:10">If only we had much higher net migration then there would be no unemployment, the deficits would become surpluses, we would all be richer, the housing crisis would disappear, and the energy crisis would be solved.What changes to the Immigration Rules would you suggest?</Utterance>
+        </Turn>
+        <Turn nickname="nish81">
+            <Utterance genid="3" time="28 February 2013 04:25">Good post. Unfortunately immigration policymaking seems to be driven purely by political forces, without any regard to the economic argument that has been made several times. </Utterance>
+        </Turn>
+        <Turn nickname="david k">
+            <Utterance genid="4" time="28 February 2013 06:47">the problem with using foreign born rather than foreign nationals is that it includes many Brits born abroad [including English cricket players] which historically included many children of uk&amp;#39;s armed forces and others abroad when UK used to have an empire. It also includes those who were foreign nationals but may have obtained uk natonality decades ago. so using foreign born compared with uk-born certainly doesnt give any measure of recent migration effects on the labour market and it&amp;#39;s therefore unsurprising the two lines shown in the graph are moving in similar ways. migration anually is small compared with the stock of foreign born or previous migrats already here.much more useful would be to look at the lfs data filtered by those who have been foreign nationals who were not resident in the uk 1 year previously....yes the data exists albeit with smaller sample sizes. why dont you ask for it and plot that instead of presenting results that compare two stocks that tell us little about the impact of recent migration on labour markets.just relying on data as published routinely by ons is like trusting the gdp figures to tell the whole truth and ignoring changes in income distributions [as pointed out for the us in the stiglitz report]as my former economics professor would have said ... good but try harder thinking about what the data you have chosen actually measures before plotting it</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

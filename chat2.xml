@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>White flight: "600,000 have quit London in a decade". The true figure is far higher</Topics>
+    <Participants>
+        <Person nickname="pvandck"/>
+        <Person nickname="Dr. Sunil"/>
+        <Person nickname="Luke"/>
+        <Person nickname="Tony Quintus"/>
+        <Person nickname="tuhmunga"/>
+        <Person nickname="Lenny Shallcross"/>
+    </Participants>
+    <Body>
+        <Turn nickname="pvandck">
+            <Utterance genid="1" time="6 May 2013 08:32">It is self evident to anyone with a functioning grey cell that not all people who live in London are &amp;quot;Londoners&amp;quot;. So the Mail would be presenting speculation as fact - which would be just as novelty for them as presenting a fabricated story, of course. Just saying.</Utterance>
+        </Turn>
+        <Turn nickname="Dr. Sunil">
+            <Utterance genid="2" time="6 May 2013 09:00">Greater London:2001 Census White British 4,287,861 (59.79%)2011 Census White British 3,669,284 (44.89%) </Utterance>
+        </Turn>
+        <Turn nickname="Luke">
+            <Utterance genid="3" time="6 May 2013 11:26">Umm. Don&amp;#39;t non- white British count as British? How many generations does it take?  (FWIW I am very white but not entirely British, depending on the definition of British.) </Utterance>
+        </Turn>
+        <Turn nickname="Tony Quintus">
+            <Utterance genid="4" time="7 May 2013 05:09">And if they had half an ounce of spine they&amp;#39;d move back and stop the rot, but they don&amp;#39;t, so they wont.</Utterance>
+        </Turn>
+        <Turn nickname="tuhmunga">
+            <Utterance genid="5" time="8 May 2013 00:54">Here&amp;#39;s a funny thing. When I worked down in the south east in the early 1970&amp;#39;s when I mentioned that I was from Worcestershire, I was met with blank looks, incredulity, and imitation Archers accents. Why ever would anybody want to live out on the sticks? Boring.  Why would we want to go and live there, they said. We&amp;#39;re Londoners, this is our city, my family have lived here for generations. Anything you could ever want is in London. Why would anyone want to leave London? It would be turning your back on your roots.Now, you can&amp;#39;t walk down a street in Worcester without hearing an estuary accent. There&amp;#39;s a new suburb called St Peter&amp;#39;s where I have been twice and asked for directions, and been answered in the plangent diphthongs and triphthongs of ex-Londoners, I went to Norfolk for the first time a coupld of years back. Right in the middle of nowhere we went into a pub. The publican turned out to be a cockney. In the rest of Norfolk and Suffolk ex-Londoners are abundant. There weren&amp;#39;t Londoners when I lived in Lincolnshire in the early 1980&amp;#39;s - now it&amp;#39;s full of them. I went on holiday to Devon. Londoners. They&amp;#39;re everwhere. For some reason, all the old talk about it being &amp;quot;my city&amp;quot;and &amp;quot;my family have lived here for generations&amp;quot; has gone. Question 1: Why have Londoners developed this love for the countryside and the provinces? Question 2: Why do brown and black people, when they go up in the world, just buy a bigger house in the city instead of buying themselves a little place in the country or in a nice little market town? Question 3: Why do Londoners, when they discover that they can get far more for their money in terms of property, prefer to move to dull places like the countryside and predominantly white provincial cities or market towns, rather than to Birmingham, Bradford, Manchester, Leeds where they can have a much bigger house but also carry on enjoying the vibrancy and life-enhancing qualities of multicultural environments?  </Utterance>
+        </Turn>
+        <Turn nickname="Lenny Shallcross">
+            <Utterance genid="6" time="11 May 2013 14:20">Mark Easton had an interesting take on this. Looked at changes in  Barking and Dagenham. http://www.bbc.co.uk/news/uk-21511904</Utterance>
+        </Turn>
+    </Body>
+</Dialog>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Moving to the NIESR blog..</Topics>
+    <Participants>
+        <Person nickname="Daniel Foster"/>
+        <Person nickname="David Langford"/>
+        <Person nickname="Podoloski advani"/>
+        <Person nickname="Fire And Fuel Apparel"/>
+        <Person nickname="aman kesherwani"/>
+        <Person nickname="Sree Uzzal Kumer Shaha"/>
+    </Participants>
+    <Body>
+        <Turn nickname="Daniel Foster">
+            <Utterance genid="1" time="20 May 2013 05:56">But where&amp;#39;s the RSS feed?</Utterance>
+        </Turn>
+        <Turn nickname="David Langford">
+            <Utterance genid="2" time="20 May 2013 06:20">Seconding the RSS request! Google might be trying to kill the technology, but some of us are clinging on!</Utterance>
+        </Turn>
+        <Turn nickname="Podoloski advani">
+            <Utterance genid="3" time="3 July 2013 10:43">This article is mind blowing I read it and enjoyed. I always find this type of article to learn and gather knowledge. Elektrownia sloneczna</Utterance>
+        </Turn>
+        <Turn nickname="Fire And Fuel Apparel">
+            <Utterance genid="4" time="26 September 2013 05:14">Fire And Fuel Apparel is providing custom off duty apparel and merchandise for real hero&amp;#39;s without capes. We can make you a custom for you logo and apparel. A committed company to providing custom off duty appareland merchandise.firefighter apparelfirefight t shirtsfireman t shirtfirefighterfirefighter t shirtsamerican firefighter collectionEMS apparelhatshoodies blankets</Utterance>
+        </Turn>
+        <Turn nickname="aman kesherwani">
+            <Utterance genid="5" time="29 September 2013 02:00">songspksongs.pkKrrish 3 songspkKrrish 3 songsKrrish 3 mp3 songsKrrish 3 songs downloadKrrish 3 mp3 downloadFresher Requirtment</Utterance>
+        </Turn>
+        <Turn nickname="Sree Uzzal Kumer Shaha">
+            <Utterance genid="6" time="28 October 2013 10:46">Hi,   I am Sree Uzzal Kumer Shaha is  SEO , SMM and SEM  expert in  odesk . The new GOOGLE PANDA and webmaster experience of 5 years on SEO off page work. I&amp;#8217;m interested in your following SEO project and SMM. I can handle it and you can check my each link. I&amp;#8217;m always in 100 percent sure manually white-hat technical only. I can write keyword optimized Search Engine Friendly META TITLE, Meta Tag, Meta Description and Rich Content for Website or Blog. So I know how to analyze your keywords and make anchor text with HTML, BB code and Textile Code with keywords for better SEO advantage. Which is my bold proclamation that you can see in my attachment excel work sheet.   ODESK </Utterance>
+        </Turn>
+    </Body>
+</Dialog>

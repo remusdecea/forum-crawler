@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>Indexing benefits to inflation is not "unsustainable"</Topics>
+    <Participants>
+        <Person nickname="theuxbridgegraduate"/>
+        <Person nickname="Peter Nicholls"/>
+        <Person nickname="BlueNut2000"/>
+        <Person nickname="oldcobbler"/>
+        <Person nickname="Robert Andersen"/>
+        <Person nickname="Gore VidAli"/>
+    </Participants>
+    <Body>
+        <Turn nickname="theuxbridgegraduate">
+            <Utterance genid="1" time="9 December 2012 12:42">This lends support to the suggestion that the de-indexation of benefits is a punitive measure against he poor and unemployed.</Utterance>
+        </Turn>
+        <Turn nickname="Peter Nicholls">
+            <Utterance genid="2" time="9 December 2012 13:51">On Guardian site now &amp;quot;Benefits cuts row intensifies between parties: &amp;quot;Tories ask how Labour might keep welfare at level with inflation after chancellor announced only 1% rise per year until 2015.&amp;quot;It&amp;#39;s just turning in to politicking now. Please someone bring back the voices of sanity like your&amp;#39;s Jonathan!</Utterance>
+        </Turn>
+        <Turn nickname="BlueNut2000">
+            <Utterance genid="3" time="10 December 2012 04:43">Jonathon, Great article, but what makes you confident that the OBR have got their growth forecasts right this time? Where on earth is growth going to come form when Osbornes cuts are deepening, he has no growth plan and Europe is contracting and likely to get very messy?</Utterance>
+        </Turn>
+        <Turn nickname="oldcobbler">
+            <Utterance genid="4" time="11 December 2012 02:24">If indexing benefits to inflation is currently unsustainable, how can at the same time a pension increase of 2.5% be considered sustainable ?</Utterance>
+        </Turn>
+        <Turn nickname="Robert Andersen">
+            <Utterance genid="5" time="11 December 2012 11:25">&amp;#39;So unless the OBR is completely wrong, and the economy flatlines for the foreseeable future, &amp;#39;Fiscal cliff, Chinese slowing  down, India slowing down, EU highly unstable and GDP crashing there, middle east kicking off, tension between Japan and China, Brazil slowing down,broken western banking system, unbalenced western govt balence sheets and private sector that is maxed out on the credit card. It&amp;#39;s not clear why things should get better. If we take just europe and the US i.e. over 40% of world GDP, just in the coming month we see the US facing a decision that will impact GLOBAL GDP. In europe, GDP is CRASHING in the last quarter...These are all facts. Should the NIESR be considering these events?</Utterance>
+        </Turn>
+        <Turn nickname="Gore VidAli">
+            <Utterance genid="6" time="11 December 2012 12:19">Jonathan, I assume you use the average earnings growth for all income categories. How does the graph look if you instead only use income growth for the bottom quintile? Given the relative stagnation of low income wage growth in the last few decades it seems likely that such a graph might not look so bad relatively for JSA claimants. Not that I don&amp;#39;t agree with you about maintaining economic stabilisers of course. </Utterance>
+        </Turn>
+    </Body>
+</Dialog>

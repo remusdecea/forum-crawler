@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Dialog>
+    <Topics>The Treasury Committee, cont: "My concern is not the economics" </Topics>
+    <Participants>
+        <Person nickname="boing3887"/>
+        <Person nickname="James"/>
+        <Person nickname="Oldsoul_NotQuite"/>
+        <Person nickname="Andrew"/>
+        <Person nickname="Christopher"/>
+        <Person nickname="Slightly~Foxed"/>
+        <Person nickname="Simon"/>
+        <Person nickname="Apollo_Creed"/>
+        <Person nickname="دردشة ومنتديات عراقنا"/>
+        <Person nickname="Stoic"/>
+    </Participants>
+    <Body>
+        <Turn nickname="boing3887">
+            <Utterance genid="1" time="19 November 2012 23:13">How did this idiot MP Norman get elected to Parliament? I thought only the US allowed illiterates to public office,...</Utterance>
+        </Turn>
+        <Turn nickname="James">
+            <Utterance genid="2" time="20 November 2012 02:10">For what it&amp;#39;s worth, it has always struck me that you bend over backwards in trying to find any possible statistical support or other rationale for government policy, and you are reluctant to be over critical until the evidence of failure is incontrovertible. Right now Mr Norman should be far more concerned that right wing economists seem to be basing their policy recommendations more on faith than facts, repeating arguments that have been discredited time and again.</Utterance>
+        </Turn>
+        <Turn nickname="Oldsoul_NotQuite">
+            <Utterance genid="3" time="20 November 2012 04:23">My question is why did Jesse Norman do this? Presumably he is not stupid enough to do it just for a laugh or to believe that such comments would affect the credibility of Jonathan&amp;#39;s statements. The chair of the committee smacked him down a bit. Was it to get some personal media attention, to send a warning from the govt to the NIESR, a personal animus against Jonathan, a lack of self-control (generally happens when reality isn&amp;#39;t going your way)?</Utterance>
+        </Turn>
+        <Turn nickname="Andrew">
+            <Utterance genid="4" time="20 November 2012 04:37">If citizens elect a creationist MP, it would not be &amp;quot;political&amp;quot; for a geologist to speak up and say that the evidence is overwhelmingly against that MP&amp;#39;s views on the origins of the earth. Now, of course, economics is not geology, but the analogy still holds so long as an economist sticks to reporting evidence( from the IMF, event studies, standard theory), which, from what I can see, is what you are doing. Maybe you should just change the titles of your pieces to emphasize this e.g. &amp;quot;All the evidence indicates that Plan B has failed&amp;quot; </Utterance>
+        </Turn>
+        <Turn nickname="Christopher">
+            <Utterance genid="5" time="20 November 2012 10:28">&amp;quot;My suggestion is that such things may not do the long-term well-being of the NIESR much good&amp;quot;Isn&amp;#39;t this a threat by Norman??</Utterance>
+        </Turn>
+        <Turn nickname="Slightly~Foxed">
+            <Utterance genid="6" time="23 November 2012 15:48">Jesse by name, Jessie by nature. Pity he seems entirely devoid of Norman Wisdom.</Utterance>
+        </Turn>
+        <Turn nickname="Simon">
+            <Utterance genid="7" time="25 November 2012 07:38">Note the incredible &amp;quot;not about the economics&amp;quot; statement! This VSP is admitting he is not questioning the accuracy of the data or the truth it implies (ie. that austerity is failing the UK); Alarmingly his concern is about whether someone should reveal the truth at all (clearly he thinks they shouldn&amp;#39;t) when it has a negative &amp;quot;political impact and implication&amp;quot; for his (the Conservative) party. Equally alarming is the very thinly veiled threat regarding the &amp;quot;long-term well-being of the NIESR&amp;quot;, simply because they publish data and analysis which shows the failings of the right&amp;#39;s policies. Its like a &amp;quot;we cannot guarantee your safety&amp;quot; threat from the mob!</Utterance>
+        </Turn>
+        <Turn nickname="Apollo_Creed">
+            <Utterance genid="8" time="26 November 2012 20:46">10:31 is pretty great too. &amp;quot;That was the path we were told would lead to disaster and would lead to our bond yields looking like those of Italy. Has it happened? Has it?&amp;quot; Tyrie&amp;#39;s face.  These guys are incredibly dismissive.  I don&amp;#39;t think I could keep composure.</Utterance>
+        </Turn>
+        <Turn nickname="دردشة ومنتديات عراقنا">
+            <Utterance genid="9" time="28 November 2012 06:50">اجمل دردشة عراقية رومنسية ترفيهية يظم كافة العراقيين والعرب والاجانبشات عراقنادردشة عراقناجات عراقناشلة عراقنا عراقناشات العراقدردشة عراقيةشات كيكهدردشة عبداللهجاتدردشةمنتدى دردشة عراقنامنتدى عراقنا</Utterance>
+        </Turn>
+        <Turn nickname="Stoic">
+            <Utterance genid="10" time="5 December 2012 04:22">Well done, Mr Portes.  When the facts change we now know what Mr Norman does - have a partisan go at the messenger.</Utterance>
+        </Turn>
+    </Body>
+</Dialog>
